@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task 6: Subqueries & Nested Queries
 
 ## 🎯 Objective
@@ -36,3 +37,7 @@ Use subqueries in `SELECT`, `WHERE`, and `FROM` (derived tables) including scala
 
 ## ✅ Outcome
 Advanced query logic using subqueries, correlated subqueries, and derived tables on an e-commerce schema.
+=======
+# task-6-subqueries-nested-queries
+SQL subqueries (scalar and correlated), IN/EXISTS, and derived tables in SELECT, WHERE, and FROM on an e-commerce schema.
+>>>>>>> b40601945b8833046609985a6a3ddb10bbfdf8b3
